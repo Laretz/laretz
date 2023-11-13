@@ -1,8 +1,5 @@
 
-<img align="center" style="margin-bottom:100px" width=100% src="https://github.com/laretz/laretz/assets/97697928/9acbb44e-98f8-4f83-82f7-c19408c161cd" />
-&nbsp;&nbsp;&nbsp;
-
-<p align="center">I ❤️ solve great challenges using tech. <br><br> From backend development using Flask to frontend development using ReactTS, I am <strong>passionate to discover new stuffs</strong> and use them to create high quality solutions. Today, I'm a <strong>full stack mid-level developer</strong> focused on web development.</p>&nbsp;
+<p align="center">I ❤️ Oi, eu sou Renato :). <br><br> Estudante e entusiasta de tecnologia, cursando atualmente o quinto período de Análise e Desenvolvimento de Sistemas </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=laretz&theme=radical&mode=weekly" />
@@ -17,10 +14,9 @@
 ## My Skills
 
 #### Main Stack:
-![Java] (https://img.shields.io/badge/Java-323330?style=for-the-badge&logo=javat&logoColor=F7DF1E)&nbsp;
+![java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
-![Typescript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
@@ -50,7 +46,7 @@
 <a href="https://www.instagram.com/laretzz" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white">
 </a>
 <a href = "mailto:renatophoenix123@gmail.com"> <img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-<a href="https://www.linkedin.com/in/rafael-ladeia/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
+<a href="https://www.linkedin.com/in/renato-ramon-4312b523b/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"  target="_blank"></a> 
 </div>&nbsp;&nbsp;
  
 
