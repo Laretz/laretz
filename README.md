@@ -1,5 +1,5 @@
 
-<p align="center">I ❤️ Oi, eu sou Renato :). <br><br> Estudante e entusiasta de tecnologia, cursando atualmente o quinto período de Análise e Desenvolvimento de Sistemas </p>&nbsp;
+<p align="center"> Oi, eu sou Renato :). <br><br> Estudante e entusiasta de tecnologia, cursando atualmente o quinto período de Análise e Desenvolvimento de Sistemas </p>&nbsp;
 
 <div  align="center" style="margin-bottom:100px">
 <img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=laretz&theme=radical&mode=weekly" />
