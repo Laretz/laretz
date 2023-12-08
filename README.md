@@ -1,24 +1,36 @@
+<br>
 
-<p align="center"> Oi, eu sou Renato :) 1<br><br> Estudante e entusiasta de tecnologia, cursando atualmente o quinto período de Análise e Desenvolvimento de Sistemas </p>&nbsp;
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?font=Bebas+Neue&color=black&size=30&left=true&width=1000&lines=Olá!+Sou+o+Renato+Ramon;Bem+Vindo+:%29)](https://git.io/typing-svg)
+<a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a>
+<br>
+<br>
 
-<div  align="center" style="margin-bottom:100px">
-<img width=55% align="center"  src="https://github-readme-streak-stats.herokuapp.com?user=laretz&theme=radical&mode=weekly" />
-<img width=40% align="center" src="https://github-readme-stats-git-main-laretz.vercel.app/api/top-langs/?username=laretz&show_icons=true&theme=radical&layout=compact" />
+<br>
+
+<div align="center"> 
+<p><img height="190em" src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Laretz&theme=tokyonight&title_color=7f2299" alt="laretz"/></p>
+  <img width="41%" height="195px" src="https://github-readme-stats.vercel.app/api/top-langs/?username=laretz&theme=tokyonight&layout=compact&hide_border=true" />
  </div>
- 
- &nbsp;
- &nbsp;
 
+<br>
+<br>
+
+
+
+<p><a href="https://www.youtube.com/watch?v=ZzDDmi7JhEo"><img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"></a></p>
+
+<br>
 
 
 ## My Skills
 
-#### Main Stack:
+
+#### Main Stack:,
+![Kotlin](https://img.shields.io/badge/kotlin-%237F52FF.svg?style=for-the-badge&logo=kotlin&logoColor=white)
 ![java](https://img.shields.io/badge/Java-ED8B00?logo=java&logoColor=white&style=for-the-badge)&nbsp;
 ![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)&nbsp;
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)&nbsp;
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)&nbsp;
- <img align="center" height="40" width="60" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/kotlin/kotlin-original.svg" />
 ![Git](https://img.shields.io/badge/GIT-E44C30?style=for-the-badge&logo=git&logoColor=white)&nbsp;
 
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
